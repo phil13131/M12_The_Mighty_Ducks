@@ -57,5 +57,5 @@ This project is licensed under the MIT License
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/phil13131/M12_The_Mighty_Ducks/blob/main/Team_Screenshot1_2023.png)
-![Screenshot 2](https://github.com/phil13131/M12_The_Mighty_Ducks/blob/main/Team_Test_Screenshot2_2023.png)
+![Screenshot 1](https://github.com/phil13131/M12_The_Mighty_Ducks/blob/main/Team%20Screenshot1_2023.png)
+![Screenshot 2](https://github.com/phil13131/M12_The_Mighty_Ducks/blob/main/Team%20Test%20Screenshot2_2023.png)
