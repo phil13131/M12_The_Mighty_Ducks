@@ -139,13 +139,13 @@ inquirer
         //Create new employee card with Manager data
         var card =
             `<!--Card-->
-            <article class="container shadow-md bg-blue-100 rounded-lg text-center">
-            <div class="bg-blue-900 rounded-t-lg py-2 capitalize">
-            <h1 class="text-3xl text-white font-semibold">${mgName}</h1>
+            <article class="container shadow-md bg-Red-100 rounded-lg text-center">
+            <div class="bg-Red-900 rounded-t-lg py-2 capitalize">
+            <h1 class="text-3xl text-Black font-semibold">${mgName}</h1>
             <h2 class="text-lg text-slate-300">ID: ${mgID}</h2>
             </div>
             <div class="ml-3 m-2 text-xl font-semibold">${role}</div>
-            <div class="ml-3 mb-2 hover:text-blue-700 hover:font-semibold"><a href = "mailto: ${mgEmail}">${mgEmail}</a></div>
+            <div class="ml-3 mb-2 hover:text-Black-700 hover:font-semibold"><a href = "mailto: ${mgEmail}">${mgEmail}</a></div>
             <div class="ml-3 mb-3">Office: ${mgOffice}</div>
             </article>`;
 
@@ -248,13 +248,13 @@ function addIntern() {
 
             var card =
                 `<!--Card-->
-            <article class="container shadow-md bg-blue-100 rounded-lg text-center">
-            <div class="bg-blue-900 rounded-t-lg py-2 capitalize">
-            <h1 class="text-3xl text-white font-semibold">${intName}</h1>
+            <article class="container shadow-md bg-Red-100 rounded-lg text-center">
+            <div class="bg-Red-900 rounded-t-lg py-2 capitalize">
+            <h1 class="text-3xl text-Black font-semibold">${intName}</h1>
             <h2 class="text-lg text-slate-300">ID: ${intID}</h2>
             </div>
             <div class="ml-3 m-2 text-xl font-semibold">${role}</div>
-            <div class="ml-3 mb-2 hover:text-blue-700 hover:font-semibold"><a href = "mailto: ${intEmail}">${intEmail}</a></div>
+            <div class="ml-3 mb-2 hover:text-Red-700 hover:font-semibold"><a href = "mailto: ${intEmail}">${intEmail}</a></div>
             <div class="ml-3 mb-3">Education: ${intSchool}</div>
             </article>`
 
@@ -359,13 +359,13 @@ function addEngineer() {
             var card =
                 `<!--Card-->
             <article class="container shadow-md bg-blue-100 rounded-lg text-center">
-            <div class="bg-blue-900 rounded-t-lg py-2 capitalize">
-            <h1 class="text-3xl text-white font-semibold">${engName}</h1>
+            <div class="bg-Red-900 rounded-t-lg py-2 capitalize">
+            <h1 class="text-3xl text-Black font-semibold">${engName}</h1>
             <h2 class="text-lg text-slate-300">ID: ${engID}</h2>
             </div>
             <div class="ml-3 m-2 text-xl font-semibold">${role}</div>
-            <div class="ml-3 mb-2 hover:text-blue-700 hover:font-semibold"><a href = "mailto: ${engEmail}">${engEmail}</a></div>
-            <div class="ml-3 mb-3 hover:text-blue-700 hover:font-semibold"><a href = "https://github.com/${engGH}">GitHub</a></div>
+            <div class="ml-3 mb-2 hover:text-Red-700 hover:font-semibold"><a href = "mailto: ${engEmail}">${engEmail}</a></div>
+            <div class="ml-3 mb-3 hover:text-red-700 hover:font-semibold"><a href = "https://github.com/${engGH}">GitHub</a></div>
             </article>`
 
             //Add new card to htmlCards string

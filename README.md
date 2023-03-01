@@ -36,9 +36,9 @@ To run the tests the user needs to install jest.js (run NPM install in command l
 
 **PHIL DAVIS** 
 
-- [Link to Portfolio Site](https://cfoster121.github.io/portfolio/)
-- [Link to Github](https://github.com/cfoster121)
-- [Link to LinkedIn](https://www.linkedin.com/in/courtney-foster-0b364575/)
+- [Link to Portfolio Site](https://phil13131.github.io/Bootstrap-Portfolio/)
+- [Link to Github](https://github.com/phil13131)
+- [Link to LinkedIn](www.linkedin.com/in/philip-davis-85ab4531/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -49,10 +49,12 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 * [Node.js Docs](https://nodejs.org/en/)
-* [Inquirer.js Docs](https://www.npmjs.com/package/inquirer)
-* [W3 Schools](https://www.w3schools.com/)
-* [MDN Web Docs](https://developer.mozilla.org/en-US/)
-* [QuickTime Screen Recorder](https://support.apple.com/guide/quicktime-player/welcome/mac)
 * [Tailwind Docs](https://tailwindcss.com/)
 * [Markdown Preview](https://dillinger.io/)
-* Slack study groups
+* [Inquirer.js Docs](https://www.npmjs.com/package/inquirer)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
+* [QuickTime Screen Recorder](https://support.apple.com/guide/quicktime-player/welcome/mac)
+* [W3 Schools](https://www.w3schools.com/)
+
+
+

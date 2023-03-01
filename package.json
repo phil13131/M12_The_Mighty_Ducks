@@ -27,7 +27,7 @@
   "dependencies": {
     "inquirer": "^8.2.0",
     "inquirer-recursive": "^0.0.7",
-    "jest": "^27.4.7",
+    "jest": "^27.5.1",
     "node": "^17.4.0"
   }
 }
