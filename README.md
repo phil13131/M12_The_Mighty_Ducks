@@ -55,5 +55,7 @@ This project is licensed under the MIT License
 * [QuickTime Screen Recorder](https://support.apple.com/guide/quicktime-player/welcome/mac)
 * [W3 Schools](https://www.w3schools.com/)
 
+## Screenshots
 
-
+![Screenshot 1](https://github.com/phil13131/M12_The_Mighty_Ducks/blob/main/Team_Screenshot1_2023.png)
+![Screenshot 2](https://github.com/phil13131/M12_The_Mighty_Ducks/blob/main/Team_Test_Screenshot2_2023.png)
